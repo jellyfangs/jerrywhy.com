@@ -1,1 +1,8 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Notional Blog
+## NextJS + Notion + Github
+
+- [ ] Setup NPM
+- [ ] Setup NextJS
+- [ ] Deploy to Github Pages
+- [ ] Setup Notion
+- [ ] Automate deployment
