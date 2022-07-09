@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          NextJS + Notion + Github
+          NextJS + Notion + Github Pages
         </p>
 
       </main>
